@@ -4,6 +4,14 @@ Codes for the paper: Y. Alaudah, M. Alfarraj, and G. AlRegib, "Structure Label P
 ![Overall Figure](https://github.com/olivesgatech/Geophysics2018_weakly_supervised_label_prediction/blob/master/figures/overall_figure.PNG)
 
 
+## Codes 
+
+The codes used in this manuscript can be found at the following links: 
+#### Content-adaptive texture similarity metric 
+The simialrity metric used in the retrieval experiments can be found at this [GitHub Repo](https://github.com/olivesgatech/Content-Adaptive-Non-Parametric-Texture-Similarity-Measure)
+
+#### Weakly supervised label mapping
+Codes for the weakly supervised label mapping can be found at this [GitHub Repo](https://github.com/olivesgatech/SEG2017-weakly-supervised-labeling)
 
 
 ## Citation: 
